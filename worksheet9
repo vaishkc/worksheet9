@@ -1,0 +1,41 @@
+<html>
+<body>
+<center>
+<h1>Background Color-Task</h1>
+
+
+<button type="button" onclick="myFunction1()">tawny</button>
+<button type="button" onclick="myFunction2()">black</button>
+<button type="button" onclick="myFunction3()">Yellow</button>
+<button type="button" onclick="myFunction4()">Green</button>
+<button type="button" onclick="myFunction5()">Blue</button>
+<button type="button" onclick="myFunction6()">Purple</button>
+<button type="button" onclick="myFunction7()">Pink</button>
+</center>
+
+<script>
+function myFunction1() {
+  document.body.style.backgroundColor = "tawny";
+}
+function myFunction2() {
+  document.body.style.backgroundColor = "black";
+}
+function myFunction3() {
+  document.body.style.backgroundColor = "yellow";
+}
+function myFunction4() {
+  document.body.style.backgroundColor = "green";
+}
+function myFunction5() {
+  document.body.style.backgroundColor = "blue";
+}
+function myFunction6() {
+  document.body.style.backgroundColor = "purple";
+}
+function myFunction7() {
+  document.body.style.backgroundColor = "pink";
+}
+</script>
+
+</body>
+</html>
